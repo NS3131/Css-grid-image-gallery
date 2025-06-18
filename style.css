@@ -1,0 +1,17 @@
+/* let's style the page */
+
+*{
+    margin:0;
+    padding:0;
+    /* If you set box-sizing: border-box; on an element, 
+    padding and border are included in the width and height  */
+    box-sizing: border-box;
+}
+/* put space between pictures and background */
+
+html,body{
+    background-color: white;
+    padding: 10px;
+}
+
+
