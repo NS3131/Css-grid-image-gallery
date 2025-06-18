@@ -42,6 +42,7 @@ img{
    object-fit: cover;
    border-radius: 5px;
 }
+/* create the panel */
 .grid-wrapper{
     display:grid;
     grid-gap:10px;
