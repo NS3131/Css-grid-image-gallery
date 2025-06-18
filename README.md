@@ -1,1 +1,1 @@
-Create a simple image flower gallery using CSS grid.
+Create a responsive image flower gallery using CSS grid.
